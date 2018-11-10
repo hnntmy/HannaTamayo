@@ -1,0 +1,19 @@
+body {
+    background-image: url("../img/purple.jpg");
+    background-repeat: repeat;
+    background-size: 1550px;
+}
+
+
+#name {
+	text-align: center; 
+	position: center;
+}
+
+#autobiography {
+	text-align : center;
+}
+
+.description {
+	
+}

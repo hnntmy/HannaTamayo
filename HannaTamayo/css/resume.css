@@ -1,0 +1,114 @@
+
+body {
+    background-image: url("../img/blue.jpg");
+    background-repeat: repeat;
+    background-size: 1550px;
+
+}
+
+.Information
+{
+	position: absolute;
+	left : 20%;
+	top : 0px;
+}
+
+#objectives {
+	margin:0;
+	padding:0;
+	position: absolute;
+
+}
+
+#objective1 {
+	padding:0;
+	margin : 0;
+	text-indent: 50px;
+}
+
+#bdayplace {
+	text-indent: 50px;
+}
+
+#height {
+	text-indent: 50px;
+}
+
+#gender {
+	text-indent: 50px;
+}
+ 
+#citizenship {
+	text-indent: 50px;
+}
+
+#bday {
+	text-indent: 50px;
+}
+
+#age {
+	text-indent: 50px;
+}
+
+#Secondary {
+	text-indent: 50px;
+}
+
+#tumcs {
+	text-indent: 90px;
+}
+
+#yearg {
+	left: 65%;
+	position: absolute;
+	top: 125%;
+}
+
+#Tertiary {
+	text-indent: 50px;
+}
+#ceu {
+	text-indent: 90px;
+}
+
+#years {
+	left: 65%;
+	position: absolute;
+	top: 139%;
+}
+
+#sti {
+	text-indent: 90px;
+
+}
+
+#yearss {
+	left: 65%;
+	position: absolute;
+	top: 145%;
+}
+
+#skillss {
+	text-indent: 60px;
+}
+
+#lot {
+	text-indent: 50px;
+}
+
+#num {
+	left: 65%;
+	position: absolute;
+	top: 192%;
+}
+
+#ate {
+	text-indent: 50px;
+}
+
+#ber {
+	left: 65%;
+	position: absolute;
+	top: 198%;
+}
+
